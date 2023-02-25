@@ -1,0 +1,62 @@
+@font-face {
+	font-family: 'ArcaneNine';
+	src: url(ArcaneNine.otf);
+}
+
+body {
+	background: linear-gradient(to bottom, #000B18, #00172D, #00264D, #02386E, #00498D, #0052A2);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+
+#home {
+    padding: 25px;
+  }
+  
+.navbar-brand {
+	font-size: 24px;
+	font-family: Arial, sans-serif;
+	color: rgb(202, 133, 42);
+}
+
+span {
+	font-size: 24px;
+	font-family: 'ArcaneNine' sans-serif;
+	color:#ffffff;
+}
+
+h1 {
+	font-size: 56px;
+	font-family: 'ArcaneNine';
+	color: #ffffff;
+}
+
+h2 {
+	font-size: 250px;
+	font-family: 'ArcaneNine';
+	color: #ffffff;
+}
+
+p {
+	font-size: 14px;
+	font-family: 'ArcaneNine' sans-serif;
+	color: #ffffff;
+}
+
+#characters .card {
+    width: 300px;
+    height: 450px;
+    background-color: #50a3f7;
+    font-size: 20px;
+    font-family: 'ArcaneNine'f;
+}
+
+p2 {
+	font-size: 14px;
+	font-family: 'ArcaneNine' sans-serif;
+	color: #ffffff;
+}
